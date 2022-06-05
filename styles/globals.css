@@ -10,7 +10,8 @@ body {
   align-items: center;
   justify-content: center;
   background: linear-gradient(rgb(0, 22, 82), black);
-  
+  height: 100%;
+  width: 100%; 
   background-repeat: no-repeat;
   color: white; 
   
