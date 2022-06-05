@@ -9,6 +9,9 @@
 .main_container {
   padding: 0 2rem;
   background: linear-gradient(rgb(0, 22, 82), black);
+    height: inherit;
+  
+   height: inherit; 
 }
 
 .main {
