@@ -1,4 +1,7 @@
-html,
+html{
+  background: linear-gradient(rgb(0, 22, 82), black);
+  
+}
 body {
   padding: 0;
   margin: 0;
