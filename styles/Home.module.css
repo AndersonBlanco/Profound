@@ -1,5 +1,14 @@
 .container {
+  padding-bottom: 2rem;
+  padding-top: .0rem;
+  padding-right: 2rem;
+  padding-left: 2rem;
+  box-shadow: 0em 0em 10em black; 
+}
+
+.main_container {
   padding: 0 2rem;
+  background: linear-gradient(rgb(0, 22, 82), black);
 }
 
 .main {
